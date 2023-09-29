@@ -13,7 +13,7 @@ document.writeln("<div class=\'foot-list foot-list-02\'>");
 document.writeln("                <h2>");
 document.writeln("                    友情链接</h2>");
 document.writeln("<a class=\'foot-list-nav\' href=\'http://www.yz838.com\' target=\'_blank\'>华夏中医云诊所</a> ");
-document.writeln("<a class=\'foot-list-nav\' href=\'https://yz838.com\' target=\'_blank\'>华夏中医</a> ");
+document.writeln("<a class=\'foot-list-nav\' href=\'https://yz838.com\' target=\'_blank\'>华夏中医官网</a> ");
 document.writeln("<a class=\'foot-list-nav\' href=\'http://www.shuize.top:8035/im/text/104eac.html\' target=\'_blank\'>远程问诊</a> ");
 document.writeln("<a class=\'foot-list-nav\' href=\'https://yz838.com/160.html\' target=\'_blank\'>师承中医师</a> ");
 document.writeln("<a class=\'foot-list-nav\' href=\'https://yz838.com/161.html\' target=\'_blank\'>本科学历提示</a>");
